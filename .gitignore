@@ -1,0 +1,13 @@
+*.iws
+*.war
+.classpath
+.DS_Store
+.project
+.settings
+.idea/workspace.xml
+/*.launch
+/*.tmproj
+/out/**
+stacktrace.log
+test/reports
+target/
